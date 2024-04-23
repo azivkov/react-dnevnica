@@ -1,0 +1,9 @@
+body {
+  background-image: url(https://i.imgur.com/R53JnKb.png);
+}
+
+.wrapper {
+  background-color: rgb(234, 231, 255);
+  border-radius: 25px;
+  border: 1px solid black;
+}
