@@ -1,9 +1,12 @@
 body {
-  background-image: url(https://i.imgur.com/R53JnKb.png);
+  background-image: url(https://i.imgur.com/oU4ZW2j.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .wrapper {
-  background-color: rgb(234, 231, 255);
+  background-color: rgb(184, 229, 232);
   border-radius: 25px;
   border: 1px solid black;
 }
