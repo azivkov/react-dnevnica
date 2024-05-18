@@ -90,7 +90,10 @@ function IzracunDnevnica() {
 
   return (
     <div className="wrapper p-5">
-      <h1 className="pb-5">Izračun dnevnice</h1>
+      <h1>
+        Izračun dnevnice <br /> za službeni put
+      </h1>
+      <p className="fst-italic">(1 dnevnica = 30 €)</p>
       <form onSubmit={(e) => izracunajDnevnicu(e)}>
         {/* <div className="mb-3">
           <label htmlFor="imeiprezime" className="form-label">
